@@ -1,0 +1,3 @@
+An object-oriented callback
+
+Coupling the invoker of a request to a particular request should be avoided.

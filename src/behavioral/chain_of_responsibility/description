@@ -1,0 +1,6 @@
+the chain of responsibility is an object oriented version of the if ... else if
+An object-oriented linked list with recursive traversal.
+
+with the benefit that the condition–action blocks can be dynamically rearranged and reconfigured at runtime.
+
+Coupling the sender of a request to its receiver should be avoided.
