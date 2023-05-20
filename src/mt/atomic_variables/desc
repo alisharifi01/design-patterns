@@ -1,1 +1,0 @@
-Volatile only ensures that the access is atomically, while Atomics ensure that the operation is atomically.
